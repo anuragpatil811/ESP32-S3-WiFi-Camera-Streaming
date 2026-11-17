@@ -1,2 +1,2 @@
-# ESP32_S3-camera-Webstreaming
-Testing of an ESP32-S3-N16R8 camera board with a GC2145 sensor: PSRAM validation, an SCCB sensor-probe utility, and a patched Arduino CameraWebServer that streams RGB565 frames as MJPEG.
+# ESP32_S3-WiFi-Camera-Streaming
+A Wi-Fi-based camera streaming project using ESP32-S3 and GC2145 camera sensor, featuring RGB565 image capture, software JPEG conversion, HTTP web server integration, and browser-based camera access. Developed using Arduino IDE and Embedded C++.
